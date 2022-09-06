@@ -1,0 +1,16 @@
+/* mobile */
+
+@media(max-width:740px){
+
+    #nav > li {
+        display: block;
+    }
+    #header .search-btn{
+       display: none;
+        }
+
+
+}
+    /* table */
+@media(min-width:1024px) and (max-width:740){
+}
